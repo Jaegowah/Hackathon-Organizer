@@ -1,0 +1,31 @@
+{
+     "hackathon_id": "hackathon__2019-12-22_12:48:10__12",
+     "player_count": 3,
+     "players": {
+          "max": {
+               "player_id": "player_0",
+               "name": "max",
+               "participates_in": "hackathon__2019-12-22_12:48:10__12",
+               "tasks": {
+                    "Invitations": {
+                         "task_id": "task_0_of_player_0",
+                         "owner_id": "player_0",
+                         "task_title": "Invitations",
+                         "task_description": "send invitations to all team members"
+                    }
+               }
+          },
+          "marie": {
+               "player_id": "player_1",
+               "name": "marie",
+               "participates_in": "hackathon__2019-12-22_12:48:10__12",
+               "tasks": {}
+          },
+          "mario": {
+               "player_id": "player_2",
+               "name": "mario",
+               "participates_in": "hackathon__2019-12-22_12:48:10__12",
+               "tasks": {}
+          }
+     }
+}
