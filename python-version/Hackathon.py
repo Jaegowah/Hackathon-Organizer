@@ -1,5 +1,4 @@
 # author: Grigorii Gerdzhikov
-import datetime as dt
 import random as rd
 import json as json
 from Player import *

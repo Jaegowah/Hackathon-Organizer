@@ -1,5 +1,4 @@
 # author: Grigorii Gerdzhikov
-import random as rd
 from Task import *
 
 
